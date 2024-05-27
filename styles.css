@@ -1,4 +1,4 @@
-h2 {
+h2 { /*Selector CSS SELECTOR DE TIPO */
   color: blue;
 }
 
@@ -8,4 +8,14 @@ h3 {
 
 p {
   color: purple;
+}
+
+/* SELECTOR UNIVERSAL
+* {
+  color: purple;
+}
+*/
+
+.lista-de-gato {
+  color: chocolate;
 }
